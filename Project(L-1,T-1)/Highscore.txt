@@ -1,0 +1,5 @@
+Sithi   300
+Rakesh   300
+player1   100
+player2   80
+player3   50
